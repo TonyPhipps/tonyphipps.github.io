@@ -6,6 +6,4 @@ layout: home
 
 ---
 
-## Welcome!
-
-Welcome aboard 😄
+# Body in README.md

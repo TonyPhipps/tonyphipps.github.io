@@ -1,9 +1,9 @@
-{% include header.html %}
-{% include navigation.html %}
+---
+title: Home
+permalink: /
 
-    <h1>{{ page.title }}</h1>
+layout: home
 
-    {{ welcome 😄 }}
+---
 
-{% include footer.html %}
-
+## Section heading

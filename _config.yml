@@ -4,6 +4,6 @@ title: Tony Phipps
 locale: en_US
 logo: logo.png
 
-remote_theme: tomjoht/documentation-theme-jekyll
+remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme

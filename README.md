@@ -1,8 +1,7 @@
 ---
 title: Home
 permalink: /
-
-# layout: default
+layout: default
  
 ---
 

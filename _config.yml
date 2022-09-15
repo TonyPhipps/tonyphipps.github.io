@@ -4,8 +4,28 @@ title: Tony Phipps
 locale: en_US
 logo: logo.png
 
+tagline: A text-focused Jekyll theme
+description: >-                        # used by seo meta and the atom feed
+  My page.
+github:
+  username: tonyphipps
+  
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Tony
+  email: example@doamin.com             # change to your email address
+  links:
+    # The first element serves as the copyright owner's link
+    - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/username       # change to your github homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/username
+
 remote_theme: cotes2020/jekyll-theme-chirpy
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+theme_mode: dark
 
 plugins:
 - jekyll-remote-theme

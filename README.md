@@ -6,4 +6,6 @@ layout: home
 
 ---
 
-## Section heading
+## Welcome!
+
+Welcome aboard 😄
